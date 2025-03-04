@@ -46,7 +46,7 @@ I'm a first-year Web Application Development student with a strong passion for c
 
 ### 📌 Pinned Repositories
 
-*Coming soon as you build more projects!*
+*Coming soon!*
 
 ---
 
