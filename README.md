@@ -89,7 +89,7 @@ Integra la API de TMDB para datos de películas y utiliza Appwrite como backend 
 
 Entre sus características destacan: navegación intuitiva, búsqueda potente, sistema de favoritos y sección de tendencias. El código sigue una estructura modular con directorios separados para componentes, contextos, páginas, servicios y definiciones TypeScript.
 
-**[Check out the live demo](https://the-movie-project.vercel.app/)**
+**[Check out the live demo](https://the-movie-project-kappa.vercel.app/)**
 
 **Tech Stack:** React 19, TypeScript, Tailwind CSS v4, React Router v7, Appwrite, TMDB API, Vite
 
@@ -99,7 +99,7 @@ Entre sus características destacan: navegación intuitiva, búsqueda potente, s
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orwin-manuel-zavaleta-villanueva-04ab3126a)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orwinzavaleta@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orwinzavaleta)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OrwinZavaleta)
   
 </div>
 
