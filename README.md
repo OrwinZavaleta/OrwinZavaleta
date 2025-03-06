@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5DF7&width=435&lines=Web+Development+Student;Passionate+Programmer;Lifelong+Learner" alt="Typing SVG" />
   
   [![Profile Views](https://komarev.com/ghpvc/?username=orwinzavaleta&style=for-the-badge&color=6E5DF7)](https://github.com/orwinzavaleta)
-  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=orwinzavaleta.orwinzavaleta&left_color=black&right_color=6E5DF7)](https://github.com/orwinzavaleta)
 </div>
 
 ## 💫 About Me
