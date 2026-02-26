@@ -58,17 +58,6 @@ I am a Web Application Development student dedicated to mastering the art of sof
 
 ---
 
-### 📌 Featured Project
-
-#### [The Movie Project](https://the-movie-project-kappa.vercel.app/)
-A streamlined movie discovery platform. This project focuses on efficient data fetching and modular architecture.
-* **Core:** TypeScript, TMDB API Integration.
-* **Backend:** Appwrite (Handling trends and user preferences).
-* **Styling:** Tailwind CSS (Responsive Design).
-* **Key Achievement:** Implemented a modular directory structure for enhanced maintainability.
-
----
-
 ### 🎯 Roadmap 2026
 
 - [ ] **Open Source:** Become a consistent contributor to a major PHP or TypeScript-based library.
